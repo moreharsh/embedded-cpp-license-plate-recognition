@@ -1,0 +1,17 @@
+build/
+.vscode/
+.idea/
+.DS_Store
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+results/*
+!results/.gitkeep
+__pycache__/
+*.pyc
+# Downloaded third-party images are for local evaluation, not redistributed
+/tests/reference_images/*
+!/tests/reference_images/.gitkeep
