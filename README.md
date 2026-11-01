@@ -229,3 +229,4 @@ Inspect one failure (including preprocessing intermediates):
 Set `--min-confidence 0` *only* while diagnosing rejected strings; never treat
 zero-confidence OCR as evidence of accuracy. To measure exact-match accuracy,
 provide a manually verified label CSV via `--truth path/to/truth.csv`.
+# embedded-cpp-license-plate-recognition
